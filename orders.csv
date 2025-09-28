@@ -1,0 +1,5 @@
+﻿order_id,customer_name,phone,address,book_id,quantity,status
+1,Khách hàng,Chưa cung cấp,Chưa cung cấp,9780002005883,1,Pending
+2,Khách hàng,0987654321,hà nội số điện thoại 0987654321,9780006178736,2,Pending
+3,Khách hàng,03124124125,"hai bà trưng, hà nội",9780002005883,1,Pending
+4,Khách hàng,0123456789,"tiên du, bắc ninh",9780671001957,2,Pending
